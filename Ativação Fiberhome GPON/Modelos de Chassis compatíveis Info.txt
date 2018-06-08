@@ -1,0 +1,15 @@
+Chassis
+AN5116-06B
+AN5116-06
+AN5116-04
+
+Placas GPON
+GC4B
+GC8B
+GC0B
+
+Placas de gerencia (uplink)
+HSUB
+HSUA
+HSWA
+HU1A
